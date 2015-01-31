@@ -1,0 +1,143 @@
+.table1
+{
+    border-collapse: collapse;
+    font-size: 15px;
+    text-align: center;    
+}
+.table1 thead tr
+{
+    text-align:match-parent;
+    font-size: 21px;
+    color: gray;
+    }
+
+.table1 thead tr td
+{
+    padding: 5px;
+    
+}
+
+.table1 tbody{
+    overflow: scroll;
+    height: 100px;
+}
+
+.table1 tbody tr td 
+{
+    text-align: left;
+    padding: 10px;
+    font-family: calibri;
+     font-size: 15px;
+    color: gray;
+    font-weight: normal;
+}
+.table1 tfoot 
+{
+    background: #F1F1F1;
+}
+.table1 tfoot tr td
+{
+ text-align: left;
+ padding: 5px;
+}
+
+
+
+
+.table3
+{
+    border-collapse: collapse;
+    font-size: 14px;
+    text-align: left;    
+    width: 100%;
+    margin: auto;
+}
+.table3 thead tr
+{
+    text-align: center;
+    font-size: 14px;
+    /* color: #808080; */
+    font-family: calibri,kalpurush;
+    border-bottom: 1px solid #808080;
+    border-bottom: 1px solid whitesmoke;
+}
+.table3 thead tr td
+{
+    padding: 2px; 
+    border-bottom: 1px solid #CCCCCC;   
+    border-right: 1px solid #CCCCCC;
+}
+
+.table3 tbody{
+    overflow: scroll;
+    height: 100px;
+}
+
+.table3 tbody tr td 
+{
+    text-align: center;
+    padding: 5px;
+    font-family: calibri;
+     
+    font-size: 15px;
+    color: black;
+    font-weight: normal;
+    border-bottom: 1px solid #CCCCCC;
+    border-right: 1px solid #CCCCCC;
+
+.table3 tfoot 
+{
+    background: #F1F1F1;
+}
+.table3 tfoot tr td
+{
+ text-align: left;
+ padding: 5px;
+}
+
+
+
+
+
+.table2
+{
+    border-collapse: collapse;
+    font-size: 15px;
+    text-align: center;    
+}
+.table2 thead tr
+{
+    text-align: left;
+    font-size: 21px;
+    color: gray;
+    }
+
+.table2 thead tr td
+{
+    padding: 10px; 
+    
+}
+
+.table2 tbody{
+    overflow: scroll;
+    height: 100px;
+}
+
+.table2 tbody tr td 
+{
+    text-align: left;
+    padding: 10px;
+    font-family: calibri;
+     font-size: 1px;
+    color: black;
+    font-weight: normal;
+}
+.table2 tfoot 
+{
+    background: #F1F1F1;
+}
+.table2 tfoot tr td
+{
+ text-align: left;
+ padding: 5px;
+}
