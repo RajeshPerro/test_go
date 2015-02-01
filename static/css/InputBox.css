@@ -1,0 +1,57 @@
+.input1{
+    border: 1px solid #cccccc;
+    height: auto;
+    width: auto;
+    padding: 5px;
+    font-family: calibri;
+    font-size: 18px;
+    background:#ffffcc;
+}
+
+.input1:hover{
+    border: 1px solid #7AC143;
+}
+
+.Ntooltip{
+position: absolute;
+font-size: 13px;
+color: red;
+
+
+}
+
+
+
+
+.input2{
+    border: 1px solid #cccccc;
+    height: auto;
+    width: auto;
+    padding: 5px;
+    font-family: calibri;
+    font-size: 18px;
+    background: aliceblue;
+
+}
+
+.input2:hover{
+    border: 1px solid #7AC143;
+}
+
+.textArea1{
+    border: 1px solid #cccccc;
+    height: 66px;
+    width: 86%;
+    padding: 4px;
+    font-family: calibri;
+    font-size: 18px;
+    background: #ffffcc;
+    float: left;
+    
+    /* margin-top: 8px; */
+}
+
+.textArea1:hover{
+    border: 1px solid #7AC143;
+}
+

@@ -1,0 +1,157 @@
+.box{width:940px;height:auto;min-height:300px;/* margin-left:194px; */margin-top: 0px;/* float:left; */overflow:hidden;margin: 0 auto;}
+
+.logo{float:left;height:150px;padding-left:50px;padding-top:50px;width:151px}
+.logo_text{float:left;font-size:25px;font-weight:bold;padding-top:23px;text-align:left;width:700px;margin-top:60px}
+.navigation{width:100%;float:left;height:33px}
+.news{width:100%;float:left;height:38px;padding-left:10px;font-size:13px}
+
+
+.c_body{;width: 100%;height: auto;min-height: 300px; float: left;}
+.c_body2{;width: 939px;height: auto;float: left;}
+.c_body_left{width: 249px;height: 707px;float: left;}
+.slider{width: 400px;height: 340px;float: left;margin-left: -2px;}
+.file_upload{width: 400px;height: 340px;float: left;margin-left: -2px;}
+
+.Bnews{  margin-left: 10px;  width: 265px;  height: 340px;float: left;;overflow: hidden; }
+.Bnews_a{height: 27px;width: 100%;text-align: center;padding-top: 7px;/* padding-bottom: 0px; */font-size: 15px;color:#006666;float: left}
+.Bnews_a_footer{height: 25px;float: left;width: 100%;margin-top: 5px;font-size: 12px; text-align: right;margin-left: -13px;}
+
+
+.mid_nav{width: 677px;height: 307px;float: left;margin-top: 11px;margin-left: -2px;}
+.mid_nav2{width: 656px;height: auto; min-height: 100px;float: left;margin-top: 11px;margin-left: -2px;padding: 10px}
+.scroll{
+    width: 924px;
+float: left;
+height: 96px;
+margin-top: 5px;
+
+    
+}
+
+
+.rectangal_button{ background-clip: padding-box;height: 49px; width: 235px;float: left;margin-bottom: 10px; }
+.rectangal_button_a{ background-clip: padding-box;height: 40px; width: 49px;float: left; text-align: center; font-family: 'RaphaelIcons';color: white; font-size: 46px;margin: 5px; overflow: hidden;}
+.rectangal_button_b{ background-clip: padding-box; height: 41px; width: 162px;float: left; text-align: left;color: black;font-size: 13px;margin-top: 8px; overflow: hidden;}
+
+
+
+
+
+
+
+
+.menu{ margin:0; padding:0;}
+.menu ul{ margin:0; padding:0;}
+.menu li{ margin:0; padding:0; position: relative; float:left;list-style:none;font-family: calibri;font-weight: bold;text-align: center;font-size: 12px; }
+.menu ul li a{ display:block; text-decoration:none; line-height:30px;text-align:center; color:#000000; z-index:999;
+ width:auto; min-width:73px; height:30px;border:1px solid #FFFFFF;
+ padding-left:6px; padding-right:13px; background:#f2f2f2;
+
+
+
+box-shadow: 0 0 3px #C9C9C9;position:relative;overflow:hidden;}
+ 
+.menu ul ul { position:absolute;visibility:hidden;}
+.menu ul li ul li a{ height:40px; text-align:center; padding-left:10px; line-height:40px; width:150px; background:#f2f2f2;
+}
+
+.menu ul li:hover ul{ visibility:visible;}
+.menu ul li a:hover{ background: whitesmoke; color:#377AF1; cursor:pointer;}
+
+
+
+
+
+
+/*Admin Panel */
+.login{
+    width: 31%;
+    height: 159px;
+    float: left;
+    margin-top: 63px;
+    margin-left: 300px;
+    font-family: 15px;
+    text-align: left;
+    margin-bottom: 96px;
+}
+.Login_footer{
+    width: 940px;
+    height: 40px;
+    /* float: left; */
+    /* margin-left:194px; */
+    /* margin-top: 15px; */
+    font-size: 13px;
+    margin: 0 auto;
+    padding-top: 13px;
+}
+
+.details_under{
+    
+    width: 96%;
+    height: auto;
+    margin-top: 47px;
+    padding-bottom: 28px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Holly Hack for IE7 and below*/
+/* ######### CSS classes applied to down and right arrow images  ######### */
+.downarrowclass{
+    position: absolute;
+    top: 17px;
+    right: 7px;
+}
+.rightarrowclass{
+    position: absolute;
+    top: 6px;
+    right: 5px;
+}
+/* ######### CSS for shadow added to sub menus  ######### */
+.ddshadow{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 0;
+}
+.toplevelshadow{
+}
+.c{
+    color:#000 !important;
+}
+.c:hover{
+    color:#fff !important;
+}
+
+.gallerypart{float: left; cursor:pointer;
+    height: auto;
+    margin: 20px;
+    min-height: 120px;
+    width: 180px}
+.gallery{ width:910px; height:auto; float:right; min-height:400px;}
+
+.shortga{
+width:170px; height:150px; border:1px solid #CCC; float:left; margin:20px;
+}
+.gabimg{width:170px; height:150px; cursor:pointer;
+
+-webkit-box-shadow: 1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+box-shadow:         1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+ }
+.onwerdiv{ width:893px; height:auto; min-height:300px; float:right;}
