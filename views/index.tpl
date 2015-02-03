@@ -87,6 +87,7 @@
     <a href="http://localhost:8080/login">
       <input type="button" value="Login here" style="width:auto; height:40px; margin-left:300px; background-color:green; color:white;">
     </a>
+
   </body>
   <footer>
     <div class="author">
